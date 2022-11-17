@@ -1,0 +1,25 @@
+{
+  "name": "puppeteer-in-the-middle",
+  "version": "1.0.0",
+  "description": "Small server that allows users to request pages which are proxied through Puppeteer",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dukeofsussex/PuppeteerITM.git"
+  },
+  "author": "Christopher Satchell",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/dukeofsussex/PuppeteerITM/issues"
+  },
+  "homepage": "https://github.com/dukeofsussex/PuppeteerITM#readme",
+  "devDependencies": {
+    "eslint": "^8.27.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  },
+  "dependencies": {
+    "fastify": "^4.9.2",
+    "puppeteer": "^19.2.2"
+  }
+}
