@@ -9,7 +9,7 @@
         alt="License"/>
     </a>
     <a href="/">
-      <img src="https://img.shields.io/github/package-json/v/dukeofsussex/SteamWatch"
+      <img src="https://img.shields.io/github/package-json/v/dukeofsussex/PuppeteerITM"
         alt="Version"/>
     </a>
   </p>
